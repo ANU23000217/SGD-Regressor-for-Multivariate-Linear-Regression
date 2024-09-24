@@ -17,8 +17,8 @@ Step 3: Use SGDRegressor wrapped in MultiOutputRegressor to train on the scaled 
 Step 4: Predict on test data, inverse transform the results, and calculate the mean squared error.
 ## Program:
 ```
-Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in
-the house with SGD regressor.
+Program to implement the multivariate linear regression model for predicting the price of the house and
+number of occupants in the house with SGD regressor.
 Developed by: ANU RADHA N
 RegisterNumber:  212223230018
 
